@@ -9,7 +9,7 @@ Lze také využít idle script [ZDE](https://steamcommunity.com/sharedfiles/file
 
 Měsíční výnos ze skinů hry je o náhodný ale cca okolo 2-20€
 
-#EN
+# EN
 
 This is a Proof of concept - Bot that automatically opens via the Steam app - [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/) and automatically opens the daily gift for you.
 
